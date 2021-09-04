@@ -24,7 +24,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][fullStack]
 
 --------
-[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefframy)](https://github.com/youssefframy)
+[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefframy&show_icons=true&theme=radical)](https://github.com/youssefframy)
  
 [fullStack]: https://smart-brain-detected.herokuapp.com/
 [website]: https://youssef009.pythonanywhere.com
