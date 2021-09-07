@@ -3,7 +3,7 @@
 ## I'm a Computer Science student...
 
 - 🔭 Currently looking for a good job or an internship
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
