@@ -1,10 +1,10 @@
 ### Hi there, I'm Youssef 👋
 
-## I'm a Computer Science student...
+## I'm a freelancer...
 
-- 🔭 Currently looking for a good job or an internship
-- 🌱 I’m currently learning everything
-- 🥅 Goals: Contribute more to Open Source projects
+- 🔭 Currently studying at faculty of computer science helwan university.
+- 🌱 I’m currently learning everything.
+- 🥅 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
