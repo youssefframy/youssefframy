@@ -2,10 +2,6 @@
 
 ## Front-End Web Developer
 
-- 🔭 Currently studying at faculty of computer science helwan university.
-- 🌱 I’m currently learning everything.
-- 🥅 Goals: Contribute more to Open Source projects.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -30,4 +26,4 @@
  
 [fullStack]: https://smart-brain-detected.herokuapp.com/
 [website]: https://youssef009.pythonanywhere.com
-[linkedin]: https://www.linkedin.com/in/youssef-ramy-59374abb/
+[linkedin]: https://www.linkedin.com/in/youssefframy/
